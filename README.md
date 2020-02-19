@@ -1,1 +1,1 @@
-# TEST_SBER
+# Sberbank test task
