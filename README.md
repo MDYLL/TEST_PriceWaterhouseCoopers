@@ -1,2 +1,2 @@
-# Sberbank test task
+# PriceWaterhouseCoopers (PWC) test task
 Задача по кластеризации клиентов
